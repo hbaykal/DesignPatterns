@@ -4,15 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tutorial.FactoryMethod
+namespace Tutorial.AbstractFactory
 {
     class Program
     {
         static void Main(string[] args)
         {
-            CustomerManger manager = new CustomerManger(new LoggerFactory2());
-            manager.Save();
+            ProductManager productManager = new ProductManager(new Factory1());
+            productManager.GetAll();
             Console.ReadLine();
         }
     }
+
+   
 }

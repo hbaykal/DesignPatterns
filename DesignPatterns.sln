@@ -15,9 +15,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tutorial", "Tutorial", "{8C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", "{8A00DD23-A0C1-43F5-B5A2-8DF1367134F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Tutorial\Creational\Singleton\Singleton.csproj", "{EB5C2C6B-80EF-4737-A7F6-F46193474A50}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.Singleton", "Tutorial\Creational\Singleton\Tutorial.Singleton.csproj", "{EB5C2C6B-80EF-4737-A7F6-F46193474A50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.Creational.FactoryMethod", "Tutorial\Creational\Tutorial.Creational.FactoryMethod\Tutorial.Creational.FactoryMethod.csproj", "{3695A845-DFE6-450A-8573-DCD6A048CE49}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.FactoryMethod", "Tutorial\Creational\Tutorial.Creational.FactoryMethod\Tutorial.FactoryMethod.csproj", "{3695A845-DFE6-450A-8573-DCD6A048CE49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.AbstractFactory", "Tutorial\Creational\Tutorial.AbstractFactory\Tutorial.AbstractFactory.csproj", "{E2583F35-646E-45A6-A088-68336831C27C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{3695A845-DFE6-450A-8573-DCD6A048CE49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3695A845-DFE6-450A-8573-DCD6A048CE49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3695A845-DFE6-450A-8573-DCD6A048CE49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2583F35-646E-45A6-A088-68336831C27C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2583F35-646E-45A6-A088-68336831C27C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2583F35-646E-45A6-A088-68336831C27C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2583F35-646E-45A6-A088-68336831C27C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -55,5 +61,6 @@ Global
 		{8A00DD23-A0C1-43F5-B5A2-8DF1367134F9} = {8C8DE478-CB32-4B08-AD52-FC7982C3418B}
 		{EB5C2C6B-80EF-4737-A7F6-F46193474A50} = {8A00DD23-A0C1-43F5-B5A2-8DF1367134F9}
 		{3695A845-DFE6-450A-8573-DCD6A048CE49} = {8A00DD23-A0C1-43F5-B5A2-8DF1367134F9}
+		{E2583F35-646E-45A6-A088-68336831C27C} = {8A00DD23-A0C1-43F5-B5A2-8DF1367134F9}
 	EndGlobalSection
 EndGlobal

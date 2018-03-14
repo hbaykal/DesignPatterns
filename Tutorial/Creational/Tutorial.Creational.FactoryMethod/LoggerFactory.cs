@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tutorial.Creational.FactoryMethod
+namespace Tutorial.FactoryMethod
 {
 
     public interface ILoggerFactory
