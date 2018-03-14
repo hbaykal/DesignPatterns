@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.Prototype", "Tutor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.Builder", "Tutorial\Creational\Tutorial.Builder\Tutorial.Builder.csproj", "{8808A837-4ADB-4446-B8AA-C89D2D0065E1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{C31BB8D3-2686-4E3B-8E7D-0B59EA40351B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.Facade", "Tutorial\Structural\Tutorial.Facade\Tutorial.Facade.csproj", "{0E6ED51E-0E5C-4AB1-833F-64EF1F939F79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,10 @@ Global
 		{8808A837-4ADB-4446-B8AA-C89D2D0065E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8808A837-4ADB-4446-B8AA-C89D2D0065E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8808A837-4ADB-4446-B8AA-C89D2D0065E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E6ED51E-0E5C-4AB1-833F-64EF1F939F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E6ED51E-0E5C-4AB1-833F-64EF1F939F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E6ED51E-0E5C-4AB1-833F-64EF1F939F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E6ED51E-0E5C-4AB1-833F-64EF1F939F79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,5 +84,7 @@ Global
 		{E2583F35-646E-45A6-A088-68336831C27C} = {8A00DD23-A0C1-43F5-B5A2-8DF1367134F9}
 		{6397916B-5B1A-47D4-91D1-52F74ED24872} = {8A00DD23-A0C1-43F5-B5A2-8DF1367134F9}
 		{8808A837-4ADB-4446-B8AA-C89D2D0065E1} = {8A00DD23-A0C1-43F5-B5A2-8DF1367134F9}
+		{C31BB8D3-2686-4E3B-8E7D-0B59EA40351B} = {8C8DE478-CB32-4B08-AD52-FC7982C3418B}
+		{0E6ED51E-0E5C-4AB1-833F-64EF1F939F79} = {C31BB8D3-2686-4E3B-8E7D-0B59EA40351B}
 	EndGlobalSection
 EndGlobal
