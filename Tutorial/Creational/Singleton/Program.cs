@@ -10,6 +10,8 @@ namespace Singleton
     {
         static void Main(string[] args)
         {
+            var customerManager = CustomerManager.CreateSingleton();
+            customerManager.Save();
         }
     }
 }
