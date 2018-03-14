@@ -16,6 +16,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tutorial", "Tutorial", "{8C
 		TextFile1.txt = TextFile1.txt
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Creational", "Creational", "{8A00DD23-A0C1-43F5-B5A2-8DF1367134F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Tutorial\Creational\Singleton\Singleton.csproj", "{EB5C2C6B-80EF-4737-A7F6-F46193474A50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -34,6 +38,10 @@ Global
 		{8AA45FC1-D167-41D7-A1D2-3912887B8195}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AA45FC1-D167-41D7-A1D2-3912887B8195}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AA45FC1-D167-41D7-A1D2-3912887B8195}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB5C2C6B-80EF-4737-A7F6-F46193474A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5C2C6B-80EF-4737-A7F6-F46193474A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5C2C6B-80EF-4737-A7F6-F46193474A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5C2C6B-80EF-4737-A7F6-F46193474A50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -41,5 +49,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{5BE45B21-FD12-45B8-A348-86414559EDF9} = {91B43912-6EB3-4CA5-A473-0A5D04CBA219}
 		{8AA45FC1-D167-41D7-A1D2-3912887B8195} = {91B43912-6EB3-4CA5-A473-0A5D04CBA219}
+		{8A00DD23-A0C1-43F5-B5A2-8DF1367134F9} = {8C8DE478-CB32-4B08-AD52-FC7982C3418B}
+		{EB5C2C6B-80EF-4737-A7F6-F46193474A50} = {8A00DD23-A0C1-43F5-B5A2-8DF1367134F9}
 	EndGlobalSection
 EndGlobal
