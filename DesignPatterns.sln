@@ -35,7 +35,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.Composite", "Tutor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.Proxy", "Tutorial\Structural\Tutorial.Proxy\Tutorial.Proxy.csproj", "{B311B51D-90A8-4507-ABE3-39C1A24E8379}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.Decorator", "Tutorial.Decorator\Tutorial.Decorator.csproj", "{8238E327-5A29-4E99-AFD7-21ECB4155F9B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.Decorator", "Tutorial\Structural\Tutorial.Decorator\Tutorial.Decorator.csproj", "{8238E327-5A29-4E99-AFD7-21ECB4155F9B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.Bridge", "Tutorial\Structural\Tutorial.Bridge\Tutorial.Bridge.csproj", "{12707256-14AB-4D90-95F6-151C66BCB864}"
 EndProject
