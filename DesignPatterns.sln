@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.Facade", "Tutorial
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.Adapter", "Tutorial\Structural\Tutorial.Adapter\Tutorial.Adapter.csproj", "{05EFAA8C-C538-4CFC-A5E1-F2C2A4BAFE7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.Composite", "Tutorial\Structural\Tutorial.Composite\Tutorial.Composite.csproj", "{680F1781-AC80-4472-B421-C6C553B8AF03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{05EFAA8C-C538-4CFC-A5E1-F2C2A4BAFE7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05EFAA8C-C538-4CFC-A5E1-F2C2A4BAFE7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05EFAA8C-C538-4CFC-A5E1-F2C2A4BAFE7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{680F1781-AC80-4472-B421-C6C553B8AF03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680F1781-AC80-4472-B421-C6C553B8AF03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680F1781-AC80-4472-B421-C6C553B8AF03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680F1781-AC80-4472-B421-C6C553B8AF03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -93,5 +99,6 @@ Global
 		{C31BB8D3-2686-4E3B-8E7D-0B59EA40351B} = {8C8DE478-CB32-4B08-AD52-FC7982C3418B}
 		{0E6ED51E-0E5C-4AB1-833F-64EF1F939F79} = {C31BB8D3-2686-4E3B-8E7D-0B59EA40351B}
 		{05EFAA8C-C538-4CFC-A5E1-F2C2A4BAFE7C} = {C31BB8D3-2686-4E3B-8E7D-0B59EA40351B}
+		{680F1781-AC80-4472-B421-C6C553B8AF03} = {C31BB8D3-2686-4E3B-8E7D-0B59EA40351B}
 	EndGlobalSection
 EndGlobal
