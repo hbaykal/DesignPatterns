@@ -1,0 +1,6 @@
+D:\Development\Git\DesignPatterns\Tutorial\Creational\Tutorial.Creational.FactoryMethod\bin\Debug\Tutorial.FactoryMethod.exe.config
+D:\Development\Git\DesignPatterns\Tutorial\Creational\Tutorial.Creational.FactoryMethod\bin\Debug\Tutorial.FactoryMethod.exe
+D:\Development\Git\DesignPatterns\Tutorial\Creational\Tutorial.Creational.FactoryMethod\bin\Debug\Tutorial.FactoryMethod.pdb
+D:\Development\Git\DesignPatterns\Tutorial\Creational\Tutorial.Creational.FactoryMethod\obj\Debug\Tutorial.FactoryMethod.exe
+D:\Development\Git\DesignPatterns\Tutorial\Creational\Tutorial.Creational.FactoryMethod\obj\Debug\Tutorial.FactoryMethod.pdb
+D:\Development\Git\DesignPatterns\Tutorial\Creational\Tutorial.Creational.FactoryMethod\obj\Debug\Tutorial.FactoryMethod.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Development\Git\DesignPatterns\TestConsole\bin\Debug\TestConsole.exe.config
+D:\Development\Git\DesignPatterns\TestConsole\bin\Debug\TestConsole.exe
+D:\Development\Git\DesignPatterns\TestConsole\bin\Debug\TestConsole.pdb
+D:\Development\Git\DesignPatterns\TestConsole\obj\Debug\TestConsole.exe
+D:\Development\Git\DesignPatterns\TestConsole\obj\Debug\TestConsole.pdb

@@ -1,0 +1,5 @@
+D:\Development\Git\DesignPatterns\Tutorial\Behavioral\Tutorial.Strategy\bin\Debug\Tutorial.Strategy.exe.config
+D:\Development\Git\DesignPatterns\Tutorial\Behavioral\Tutorial.Strategy\bin\Debug\Tutorial.Strategy.exe
+D:\Development\Git\DesignPatterns\Tutorial\Behavioral\Tutorial.Strategy\bin\Debug\Tutorial.Strategy.pdb
+D:\Development\Git\DesignPatterns\Tutorial\Behavioral\Tutorial.Strategy\obj\Debug\Tutorial.Strategy.exe
+D:\Development\Git\DesignPatterns\Tutorial\Behavioral\Tutorial.Strategy\obj\Debug\Tutorial.Strategy.pdb

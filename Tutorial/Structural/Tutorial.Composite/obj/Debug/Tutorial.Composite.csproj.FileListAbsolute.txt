@@ -1,0 +1,5 @@
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Composite\bin\Debug\Tutorial.Composite.exe.config
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Composite\bin\Debug\Tutorial.Composite.exe
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Composite\bin\Debug\Tutorial.Composite.pdb
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Composite\obj\Debug\Tutorial.Composite.exe
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Composite\obj\Debug\Tutorial.Composite.pdb

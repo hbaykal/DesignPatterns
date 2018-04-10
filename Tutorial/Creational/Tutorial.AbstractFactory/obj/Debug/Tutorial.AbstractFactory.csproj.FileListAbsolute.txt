@@ -1,0 +1,5 @@
+D:\Development\Git\DesignPatterns\Tutorial\Creational\Tutorial.AbstractFactory\bin\Debug\Tutorial.AbstractFactory.exe.config
+D:\Development\Git\DesignPatterns\Tutorial\Creational\Tutorial.AbstractFactory\bin\Debug\Tutorial.AbstractFactory.exe
+D:\Development\Git\DesignPatterns\Tutorial\Creational\Tutorial.AbstractFactory\bin\Debug\Tutorial.AbstractFactory.pdb
+D:\Development\Git\DesignPatterns\Tutorial\Creational\Tutorial.AbstractFactory\obj\Debug\Tutorial.AbstractFactory.exe
+D:\Development\Git\DesignPatterns\Tutorial\Creational\Tutorial.AbstractFactory\obj\Debug\Tutorial.AbstractFactory.pdb

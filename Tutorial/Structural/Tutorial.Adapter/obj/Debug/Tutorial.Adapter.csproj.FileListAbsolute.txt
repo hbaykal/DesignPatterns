@@ -1,0 +1,5 @@
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Adapter\bin\Debug\Tutorial.Adapter.exe.config
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Adapter\bin\Debug\Tutorial.Adapter.exe
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Adapter\bin\Debug\Tutorial.Adapter.pdb
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Adapter\obj\Debug\Tutorial.Adapter.exe
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Adapter\obj\Debug\Tutorial.Adapter.pdb

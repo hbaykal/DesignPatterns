@@ -1,0 +1,5 @@
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Proxy\bin\Debug\Tutorial.Proxy.exe.config
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Proxy\bin\Debug\Tutorial.Proxy.exe
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Proxy\bin\Debug\Tutorial.Proxy.pdb
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Proxy\obj\Debug\Tutorial.Proxy.exe
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Proxy\obj\Debug\Tutorial.Proxy.pdb

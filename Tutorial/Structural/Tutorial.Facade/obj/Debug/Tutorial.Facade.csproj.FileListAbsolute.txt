@@ -1,0 +1,5 @@
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Facade\bin\Debug\Tutorial.Facade.exe.config
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Facade\bin\Debug\Tutorial.Facade.exe
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Facade\bin\Debug\Tutorial.Facade.pdb
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Facade\obj\Debug\Tutorial.Facade.exe
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Facade\obj\Debug\Tutorial.Facade.pdb

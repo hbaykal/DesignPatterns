@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.ChainOfResposibili
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.Memento", "Tutorial\Behavioral\Tutorial.Memento\Tutorial.Memento.csproj", "{8F60C053-D055-4D7D-8A8E-3161C029E276}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial.TemplateMethod", "Tutorial\Behavioral\Tutorial.TemplateMethod\Tutorial.TemplateMethod.csproj", "{BF98EA6D-DD37-479C-8FAA-F834CFAE3593}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -127,6 +129,10 @@ Global
 		{8F60C053-D055-4D7D-8A8E-3161C029E276}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F60C053-D055-4D7D-8A8E-3161C029E276}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F60C053-D055-4D7D-8A8E-3161C029E276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF98EA6D-DD37-479C-8FAA-F834CFAE3593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF98EA6D-DD37-479C-8FAA-F834CFAE3593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF98EA6D-DD37-479C-8FAA-F834CFAE3593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF98EA6D-DD37-479C-8FAA-F834CFAE3593}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -152,5 +158,6 @@ Global
 		{B32F8ED0-BF94-4D85-B57C-48062290E9DB} = {C6452620-EC4E-4AC1-8383-FEAE8FDA921C}
 		{E0832C02-7496-4332-8188-76252C1FB9B6} = {C6452620-EC4E-4AC1-8383-FEAE8FDA921C}
 		{8F60C053-D055-4D7D-8A8E-3161C029E276} = {C6452620-EC4E-4AC1-8383-FEAE8FDA921C}
+		{BF98EA6D-DD37-479C-8FAA-F834CFAE3593} = {C6452620-EC4E-4AC1-8383-FEAE8FDA921C}
 	EndGlobalSection
 EndGlobal

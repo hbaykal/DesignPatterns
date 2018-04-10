@@ -1,0 +1,5 @@
+D:\Development\Git\DesignPatterns\Tutorial\Creational\Tutorial.Builder\bin\Debug\Tutorial.Builder.exe.config
+D:\Development\Git\DesignPatterns\Tutorial\Creational\Tutorial.Builder\bin\Debug\Tutorial.Builder.exe
+D:\Development\Git\DesignPatterns\Tutorial\Creational\Tutorial.Builder\bin\Debug\Tutorial.Builder.pdb
+D:\Development\Git\DesignPatterns\Tutorial\Creational\Tutorial.Builder\obj\Debug\Tutorial.Builder.exe
+D:\Development\Git\DesignPatterns\Tutorial\Creational\Tutorial.Builder\obj\Debug\Tutorial.Builder.pdb

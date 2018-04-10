@@ -1,0 +1,12 @@
+D:\Development\Git\DesignPatterns\Tutorial.Decorator\bin\Debug\Tutorial.Decorator.exe.config
+D:\Development\Git\DesignPatterns\Tutorial.Decorator\bin\Debug\Tutorial.Decorator.exe
+D:\Development\Git\DesignPatterns\Tutorial.Decorator\bin\Debug\Tutorial.Decorator.pdb
+D:\Development\Git\DesignPatterns\Tutorial.Decorator\obj\Debug\Tutorial.Decorator.csprojResolveAssemblyReference.cache
+D:\Development\Git\DesignPatterns\Tutorial.Decorator\obj\Debug\Tutorial.Decorator.exe
+D:\Development\Git\DesignPatterns\Tutorial.Decorator\obj\Debug\Tutorial.Decorator.pdb
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Decorator\bin\Debug\Tutorial.Decorator.exe.config
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Decorator\bin\Debug\Tutorial.Decorator.exe
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Decorator\bin\Debug\Tutorial.Decorator.pdb
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Decorator\obj\Debug\Tutorial.Decorator.csprojResolveAssemblyReference.cache
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Decorator\obj\Debug\Tutorial.Decorator.exe
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Decorator\obj\Debug\Tutorial.Decorator.pdb

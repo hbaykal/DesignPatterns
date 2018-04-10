@@ -1,0 +1,5 @@
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Bridge\bin\Debug\Tutorial.Bridge.exe.config
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Bridge\bin\Debug\Tutorial.Bridge.exe
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Bridge\bin\Debug\Tutorial.Bridge.pdb
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Bridge\obj\Debug\Tutorial.Bridge.exe
+D:\Development\Git\DesignPatterns\Tutorial\Structural\Tutorial.Bridge\obj\Debug\Tutorial.Bridge.pdb
